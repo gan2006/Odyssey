@@ -1,0 +1,6 @@
+cd ~/project/Odyssey
+touch code.txt
+git status
+git add .
+git commit -m "Add code.txt"
+git push origin main
